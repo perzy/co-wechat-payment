@@ -1,0 +1,25 @@
+{
+  "name": "co-wechat-payment",
+  "version": "0.1.0",
+  "description": "Wechat pay lib for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perzy/co-wechat-payment.git"
+  },
+  "keywords": [
+    "wechat",
+    "pay",
+    "co",
+    "jssdk"
+  ],
+  "author": "jerrywu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perzy/co-wechat-payment/issues"
+  },
+  "homepage": "https://github.com/perzy/co-wechat-payment#readme"
+}
