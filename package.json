@@ -1,6 +1,6 @@
 {
   "name": "co-wechat-payment",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Wechat pay lib for koa",
   "main": "index.js",
   "scripts": {
