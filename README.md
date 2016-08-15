@@ -14,7 +14,7 @@ npm install co-wechat-payment
 ```js
 var WXPay = require('co-wechat-payment');
 
-var wxpay = WXPay({
+var wxpay = new WXPay({
 	appId: 'xxxxxxxx',
 	mchId: '1234567890',
 	partnerKey: 'xxxxxxxxxxxxxxxxx', //微信商户平台API密钥
